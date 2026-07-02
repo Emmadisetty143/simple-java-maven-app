@@ -15,3 +15,5 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 The jenkins file want to be up and running it will never close the file 
+
+i want to push the changes in the local files 
